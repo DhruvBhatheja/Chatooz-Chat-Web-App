@@ -1,1 +1,1 @@
-# chatooz
+# Chatooz  - Chat App
